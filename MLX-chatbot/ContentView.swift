@@ -36,8 +36,8 @@ struct ContentView: View {
 //----Section 2: suggested questions-----------//
    
    private let suggestedQuestions = [
-       " ? ",
-       " ? ",
+       " how are you today",
+       " ",
        //ADD YOUR QUESTIONS BELOW (comma after each one)
   ]
 
